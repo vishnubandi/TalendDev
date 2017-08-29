@@ -1,0 +1,5 @@
+Dno|Dname
+10|Development
+20|Finance
+30|HR
+40|Sales
